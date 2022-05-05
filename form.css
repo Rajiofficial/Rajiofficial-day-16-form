@@ -1,0 +1,37 @@
+/* .search{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+     width: 33%;
+    padding-top: 5px;
+    gap: 100px;
+   }
+   .name{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+     width: 33%;
+    padding-top: 5px;
+    gap: 100px;
+   } */
+   .color{
+       font-weight: bold;
+   }
+   .order{
+       display: flex;
+       flex-direction: row;
+       justify-content:flex-start;
+   }
+   .container{
+       margin: 10px;
+   }
+   .col{
+       margin-left: 10px;
+   }
+   span{
+      font-weight:bold;
+   }
+   .bg_color{
+    background-color: aqua;
+}
+
